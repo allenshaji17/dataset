@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>auto7.jpg</filename>
+	<path>D:\test\auto7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>635</width>
+		<height>694</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>136</ymin>
+			<xmax>486</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
