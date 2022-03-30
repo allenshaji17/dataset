@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>fire engine2.jpeg</filename>
+	<path>D:\test\fire engine2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire engine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>57</ymin>
+			<xmax>705</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

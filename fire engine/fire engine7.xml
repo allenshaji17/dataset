@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>fire engine7.jpg</filename>
+	<path>D:\test\fire engine7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>551</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire engine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>51</ymin>
+			<xmax>672</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>375</ymin>
+			<xmax>242</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

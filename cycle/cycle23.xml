@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cycle23.jpg</filename>
+	<path>D:\test\cycle23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>215</ymin>
+			<xmax>1388</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+</annotation>
